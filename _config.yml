@@ -16,4 +16,5 @@ markdown: kramdown
 permalink: /:categories/:title/ # Configuração dos links do blog
 plugins:
   - jekyll-feed
+  - jemoji
 
