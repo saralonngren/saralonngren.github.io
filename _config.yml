@@ -17,4 +17,8 @@ permalink: /:categories/:title/ # Configuração dos links do blog
 plugins:
   - jekyll-feed
   - jemoji
+reading_time:
+  second_plural: "segundos"    # default: seconds
+  minute_singular: "min de leitura"  # default: minute
+  minute_plural: "min de leitura"    # default: minutes
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to Jekyll!"
-description: 'Quero ver aparecendo isso no index'
+description: 'Aprenda a como instalar o bootstrap via yarn em vez de utilizar a gem.'
 date:   2020-08-25 22:22:45 -0300
 tags: jekyll update
 ---
