@@ -1,18 +1,14 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: 👩🏼‍💻 readme
+subtitle: Oi, eu sou a Sara!
+permalink: /readme/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Sou desenvolvedora backend diretamente do ceará! Atualmente estou trabalhando em uma startup chamada "Agenda Edu". Trabalho utilizando Ruby on Rails e React.js!
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Viciada em chá preto com leite, interessada em educação, jogos, minimalismo, inovação, tecnologia, pessoas e design.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Meu intuito com o blog é compartilhar um pouco do que eu estou aprendendo no meu dia a dia, além de ajudar um pouco a comunidade :)
 
-
-[jekyll-organization]: https://github.com/jekyll
+Estou sempre aberta a novas ideias e a sugestões, então se quiser, sinta-se a vontade de entrar em contato comigo!
