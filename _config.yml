@@ -7,16 +7,22 @@ author:
   name: Sara Lonngren
   # img: /assets/img/perfil.jpg
   email: saralonngren@gmail.com
-  twitter: saralonngren
-  github: saralonngren
   bio: Sou desenvolvedora backend diretamente do ceará! Viciada em chá preto com leite, interessada em educação, jogos, minimalismo, inovação, tecnologia, pessoas e design.
 
 # Build settings
 markdown: kramdown
 permalink: /:categories/:title/ # Configuração dos links do blog
+
 plugins:
   - jekyll-feed
   - jemoji
+
+minima:
+  social_links:
+    twitter: saralonngren
+    github: saralonngren
+    linkedin: saralonngren
+
 reading_time:
   second_plural: "segundos"    # default: seconds
   minute_singular: "min de leitura"  # default: minute
