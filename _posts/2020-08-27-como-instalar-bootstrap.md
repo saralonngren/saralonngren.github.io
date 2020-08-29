@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Como instalar bootstrap via webpack na sua aplicação rails 6."
+title:  "Com um título diferente pra ver o comportamento"
 description: 'Aprenda a como instalar o bootstrap via yarn em vez de utilizar a gem.'
-date:   2020-08-25 22:22:45 -0300
+date:   2020-08-27 22:22:45 -0300
 tags: jekyll update
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.

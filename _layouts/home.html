@@ -26,13 +26,13 @@ layout: default
       {%- for post in posts -%}
       <li>
         <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
+          <a href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
           </a>
-          <p>
+          <p class="subtitle-index">
             {{ post.description | escape }}
           </p>
-          <p>
+          <p class="reading-time">
             {{ post.content | reading_time }}
           </p>
         </h3>

@@ -28,3 +28,5 @@ reading_time:
   minute_singular: "min de leitura"  # default: minute
   minute_plural: "min de leitura"    # default: minutes
 
+header_pages:
+  - about.md
