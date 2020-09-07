@@ -245,6 +245,13 @@
   @include relative-font-size(1);
 }
 
+.about-image {
+  @media screen and (min-width: $on-large) {
+    float: left;
+    max-width: 300px;
+  }
+}
+
 /**
  * Posts
  */
