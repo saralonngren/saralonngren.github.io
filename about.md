@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 👩🏼‍💻 readme
-subtitle: Oi, eu sou a Sara! 🌸
+title: ':woman_technologist: readme'
+subtitle: 'Oi, eu sou a Sara! :cherry_blossom:'
 permalink: /readme/
 image: /assets/images/sara.png
 ---
