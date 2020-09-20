@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Como o React surgiu?"
-description: 'Entenda a história e porque se tornou uma linguagem tão utilizada.'
-date: 2020-09-20 15:00:00 -0300
+description: 'Entenda a história e porque se tornou uma biblioteca tão utilizada.'
+date: 2020-09-20 10:00:00 -0300
 tags: react
 ---
 
