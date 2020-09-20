@@ -4,6 +4,7 @@ title:  "Como instalar font-awesome via webpack na sua aplicação rails 6."
 description: 'Aprenda a como instalar o font-awesome via yarn em vez de utilizar a gem.'
 date: 2020-08-25 22:22:45 -0300
 tags: rails font-awesome tutorial
+image: /assets/images/font-awesome-instalacao.png
 ---
 O Rails 6 trás o <b>webpack</b> como o compilador padrão de Javascript! Pra quem não conhece, o [webpack][webpack] é uma gem que permite uma fácil integração do pré-processor de JavaScript e do bundler do Rails.
 
