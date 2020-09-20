@@ -5,9 +5,9 @@ url: "http://saralonngren.github.io"
 
 author:
   name: Sara Lonngren
-  # img: /assets/img/perfil.jpg
   email: saralonngren@gmail.com
   bio: Sou desenvolvedora backend diretamente do ceará! Viciada em chá preto com leite, interessada em educação, jogos, minimalismo, inovação, tecnologia, pessoas e design.
+  # img: /assets/img/perfil.jpg
 
 # Build settings
 markdown: kramdown
