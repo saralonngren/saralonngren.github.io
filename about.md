@@ -6,7 +6,7 @@ permalink: /readme/
 image: /assets/images/sara.png
 ---
 
-Sou desenvolvedora backend diretamente do ceará! Atualmente estou trabalhando em uma startup chamada "Agenda Edu". Trabalho utilizando Ruby on Rails e React.js!
+Sou desenvolvedora backend diretamente do ceará! Atualmente estou trabalhando em uma startup chamada "Enjoei". Trabalho utilizando Ruby on Rails e Go!
 
 Viciada em chá preto com leite, interessada em educação, jogos, minimalismo, inovação, tecnologia, pessoas e design.
 
