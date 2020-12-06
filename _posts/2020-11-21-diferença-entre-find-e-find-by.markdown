@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Diferença entre find, find by."
+title:  "Diferença entre find & find by."
 description: 'Entenda a diferença e sua possibilidades de uso'
 date: 2020-09-20 10:00:00 -0300
 tags: ruby rails
